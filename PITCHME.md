@@ -7,7 +7,7 @@
 ### 順番にアニメーション表示
 
 
-- Java
+- Java |
 - JavaScript |
 - Kotlin |
 - Go |
